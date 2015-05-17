@@ -1,0 +1,6 @@
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\bin\Debug\Homework6.exe.config
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\bin\Debug\Homework6.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\bin\Debug\Homework6.pdb
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\obj\Debug\zad1Student.csprojResolveAssemblyReference.cache
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\obj\Debug\Homework6.exe
+c:\users\naso\documents\visual studio 2012\Projects\Telerik\Homework6\Homework6\obj\Debug\Homework6.pdb

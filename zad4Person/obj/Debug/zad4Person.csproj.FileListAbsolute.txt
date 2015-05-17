@@ -1,0 +1,9 @@
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\bin\Debug\zad4Person.exe.config
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\bin\Debug\zad4Person.exe
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\bin\Debug\zad4Person.pdb
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\obj\Debug\zad4Person.csprojResolveAssemblyReference.cache
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\obj\Debug\zad4Person.exe
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\zad4Person\obj\Debug\zad4Person.pdb
+C:\Users\Naso\Desktop\Homework6\zad4Person\bin\Debug\zad4Person.exe.config
+C:\Users\Naso\Desktop\Homework6\zad4Person\obj\Debug\zad4Person.exe
+C:\Users\Naso\Desktop\Homework6\zad4Person\obj\Debug\zad4Person.pdb

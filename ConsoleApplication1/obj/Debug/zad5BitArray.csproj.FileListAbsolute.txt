@@ -1,0 +1,6 @@
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\obj\Debug\zad5BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Naso\Documents\Visual Studio 2012\Projects\Telerik\Homework6\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
